@@ -24,3 +24,5 @@ package org.apache.oozie;
 public enum AppType {
     WORKFLOW_JOB, WORKFLOW_ACTION, COORDINATOR_JOB, COORDINATOR_ACTION, BUNDLE_JOB, BUNDLE_ACTION
 }
+
+//change_first
